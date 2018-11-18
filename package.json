@@ -1,0 +1,22 @@
+{
+  "name": "template-web-project",
+  "version": "0.0.1",
+  "description": "Template for web projects",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreygirard/template-web-project.git"
+  },
+  "author": "Corey Girard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coreygirard/template-web-project/issues"
+  },
+  "homepage": "https://github.com/coreygirard/template-web-project#readme"
+}
