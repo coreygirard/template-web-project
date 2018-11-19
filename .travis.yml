@@ -7,4 +7,3 @@ cache:
 script:
   - npm install -g mocha
   - npm test
-  - npm run build
